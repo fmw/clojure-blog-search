@@ -31,5 +31,8 @@ License
 Copyright 2012, F.M. de Waard / `Vixu.com`_.
 All code is covered by the `Apache License, version 2.0`_.
 
-.. _`Alida`_: https://github.com/fmw/alida
+.. _`Alida`: https://github.com/fmw/alida
 .. _`EuroClojure 2012`: http://euroclojure.com/2012/
+.. _`Vixu.com`: http://www.vixu.com
+.. _`Vix`: https://github.com/fmw/vix
+.. _`Apache License, version 2.0`: http://www.apache.org/licenses/LICENSE-2.0.html
