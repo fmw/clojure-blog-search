@@ -11,7 +11,7 @@ create unnecessary load for the crawled sites.
 
 This code is provided as a reference only. I do provide a pre-built of
 the index, however. You can find it in the GitHub repository of
-`clojure-web-search-www`_, which is a simple web application front-end
+`clojure-blog-search-www`_, which is a simple web application front-end
 for the search application. There is also a hosted version at
 http://clojure-blog-search.vixu.com/.
 
@@ -37,6 +37,7 @@ License
 Copyright 2012, F.M. de Waard / `Vixu.com`_.
 All code is covered by the `Apache License, version 2.0`_.
 
+.. _`clojure-blog-search-www`: https://github.com/fmw/clojure-blog-search-www
 .. _`Alida`: https://github.com/fmw/alida
 .. _`EuroClojure 2012`: http://euroclojure.com/2012/
 .. _`Vixu.com`: http://www.vixu.com
