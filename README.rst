@@ -9,6 +9,12 @@ use it carefully. This application is meant as real-world example
 code. It is not intended to be executed, because I don't want to
 create unnecessary load for the crawled sites.
 
+This code is provided as a reference only. I do provide a pre-built of
+the index, however. You can find it in the GitHub repository of
+`clojure-web-search-www`_, which is a simple web application front-end
+for the search application. There is also a hosted version at
+http://clojure-blog-search.vixu.com/.
+
 Questions?
 ----------
 
